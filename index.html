@@ -199,7 +199,7 @@
                   </a>
                 </div>
                 <div class="flex-1 flex justify-center">
-                  <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_gb5bmwlm.json" background="transparent" speed="1" style="width: 140px; height: 140px; max-width: 90vw;" class="sm:w-44 sm:h-44"></lottie-player>
+                  <lottie-player id="carousel-main-lottie" src="https://assets3.lottiefiles.com/packages/lf20_gb5bmwlm.json" background="transparent" speed="1" style="width: 140px; height: 140px; max-width: 90vw;" class="sm:w-44 sm:h-44" loop autoplay></lottie-player>
                 </div>
               </div>
             </div>
@@ -348,5 +348,22 @@
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
     <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
     <script>AOS.init({ once: true, duration: 900, easing: 'ease-out-cubic' });</script>
+    <script>
+      // Ensure the main carousel Lottie animates when its slide is active
+      document.addEventListener('DOMContentLoaded', function() {
+        var lottie = document.getElementById('carousel-main-lottie');
+        var carousel = document.getElementById('hero-carousel');
+        if (lottie && carousel) {
+          // Listen for Flowbite carousel slide change events
+          carousel.addEventListener('slideChange', function(e) {
+            // If the first slide is active, play the Lottie
+            var active = carousel.querySelector('[data-carousel-item].active, [data-carousel-item][aria-current="true"]');
+            if (active && active.getAttribute('data-carousel-item') === 'active') {
+              if (typeof lottie.play === 'function') lottie.play();
+            }
+          });
+        }
+      });
+    </script>
   </body>
 </html>
