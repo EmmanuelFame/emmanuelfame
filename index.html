@@ -150,7 +150,14 @@
           </svg>
           <span class="text-2xl font-extrabold tracking-tight text-gray-900 dark:text-white">Emmanuel Fame</span>
         </a>
-        <div class="flex items-center gap-4">
+        <!-- Mobile menu button -->
+        <button id="nav-toggle" class="md:hidden p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-indigo-500" aria-label="Open main menu">
+          <svg class="w-6 h-6 text-gray-700 dark:text-gray-200" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+        <!-- Desktop nav links -->
+        <div id="nav-links" class="hidden md:flex items-center gap-4">
           <a href="#" class="text-lg font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400 transition">Home</a>
           <a href="#service" class="text-lg font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400 transition">Services</a>
           <a href="#contact" class="text-lg font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400 transition">Contact</a>
@@ -160,13 +167,26 @@
           </button>
         </div>
       </div>
+      <!-- Mobile nav dropdown -->
+      <div id="mobile-menu" class="md:hidden hidden px-4 pb-4">
+        <a href="#" class="block py-2 text-lg font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400 transition">Home</a>
+        <a href="#service" class="block py-2 text-lg font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400 transition">Services</a>
+        <a href="#contact" class="block py-2 text-lg font-medium text-gray-700 dark:text-gray-200 hover:text-indigo-600 dark:hover:text-indigo-400 transition">Contact</a>
+      </div>
     </nav>
+    <script>
+      // Mobile nav toggle
+      document.getElementById('nav-toggle').onclick = function() {
+        var menu = document.getElementById('mobile-menu');
+        menu.classList.toggle('hidden');
+      };
+    </script>
     <main class="pt-24">
       <!-- Hero Section with Carousel -->
       <section class="max-w-screen-xl mx-auto px-4 py-16 flex flex-col items-center" data-aos="fade-up">
         <div id="hero-carousel" class="relative w-full max-w-4xl mx-auto" data-carousel="slide">
           <!-- Carousel wrapper -->
-          <div class="relative h-80 md:h-96 overflow-hidden rounded-2xl bg-gray-50 shadow-lg">
+          <div class="relative h-64 sm:h-80 md:h-96 overflow-hidden rounded-2xl bg-gray-50 shadow-lg">
             <!-- Slide 1: Lottie Animation -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
               <div class="flex flex-col md:flex-row items-center justify-center h-full gap-8 p-8">
@@ -176,7 +196,7 @@
                   <a href="#contact" class="btn-modern">Get Started</a>
                 </div>
                 <div class="flex-1 flex justify-center">
-                  <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_gb5bmwlm.json" background="transparent" speed="1" style="width: 260px; height: 260px;" loop autoplay></lottie-player>
+                  <lottie-player src="https://assets3.lottiefiles.com/packages/lf20_gb5bmwlm.json" background="transparent" speed="1" style="width: 180px; height: 180px; max-width: 90vw;" loop autoplay></lottie-player>
                 </div>
               </div>
             </div>
@@ -189,7 +209,7 @@
                   <a href="#service" class="btn-modern" style="background: linear-gradient(90deg, #06B6D4 0%, #6366F1 100%);">See Services</a>
                 </div>
                 <div class="flex-1 flex justify-center">
-                  <img src="./images/speed.jpg" alt="Speed" class="rounded-xl shadow-md w-64 h-64 object-cover" />
+                  <img src="./images/speed.jpg" alt="Speed" class="rounded-xl shadow-md w-40 h-40 sm:w-56 sm:h-56 md:w-64 md:h-64 object-cover max-w-full" />
                 </div>
               </div>
             </div>
@@ -202,7 +222,7 @@
                   <a href="#contact" class="btn-modern" style="background: linear-gradient(90deg, #8B5CF6 0%, #6366F1 100%);">Contact Us</a>
                 </div>
                 <div class="flex-1 flex justify-center">
-                  <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_kkflmtur.json" background="transparent" speed="1" style="width: 260px; height: 260px;" loop autoplay></lottie-player>
+                  <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_kkflmtur.json" background="transparent" speed="1" style="width: 180px; height: 180px; max-width: 90vw;" loop autoplay></lottie-player>
                 </div>
               </div>
             </div>
