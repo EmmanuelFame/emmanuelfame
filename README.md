@@ -1,24 +1,135 @@
-# 💫 About Me:
-## About Me 🧑‍💻<br><br>- 🔭 I’m currently working on **real-time systems** and **production-ready applications** using **Laravel** and **Python**.<br>- 🤝 I’m looking to collaborate on **open-source projects** and **scalable backend solutions**.<br>- 🧠 I’m looking for help with **Docker orchestration**, **Kubernetes**, and **cloud deployment** strategies.<br>- 🌱 I’m currently learning **system design**, **distributed systems**, and **emerging technologies**.<br>- 💬 Ask me about **clean architecture**, **VPS setup**, or **Dockerized deployments**.<br>- ⚡ Fun fact: I enjoy exploring new tech stacks and optimizing code for better performance.<br><br>
+<div align="center">
 
+# Emmanuel Fame
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/emmanuelfame07/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-ayanyemi-36865519b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emmanuelayofame@gmail.com) 
+### Software Architect · Backend Engineer · System Builder
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmmanuelFame&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EmmanuelFame&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFame&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I design and ship production software systems — from architecture and backend services  
+to infrastructure, integrations, deployment, and ongoing operations.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-emmanuelfame.netlify.app-7c5cff?style=for-the-badge&logo=vercel&logoColor=white)](https://emmanuelfame.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel_Ayanyemi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ayanyemi-36865519b/)
+[![Email](https://img.shields.io/badge/Email-emmanuelayofame%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelayofame@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EmmanuelFame&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EmmanuelFame&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a software architect and backend-focused engineer interested in systems where reliability,
+business workflows, integrations, and infrastructure matter.
+
+My work spans:
+
+- multi-tenant SaaS platforms
+- marketplaces and vendor systems
+- payment and transaction workflows
+- WhatsApp and messaging automation
+- REST APIs and backend services
+- queues, caching, and real-time infrastructure
+- Dockerized production deployments
+- dashboards and internal business systems
+
+I recently completed my degree in **Applied Mathematics & Computer Science** at
+**Ufa University of Science and Technology**, and I’m continuing into a
+**Master’s in Software Engineering**.
+
+Most importantly, I enjoy taking systems from:
+
+`requirement → architecture → implementation → deployment → production`
+
+---
+
+# Selected Production Work
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Bypass Transfers
+**Client Project**
+
+Cross-border transaction platform supporting transfer workflows,
+rates, orders, receipts, customer communication, and operational processes.
+
+**My work**
+- Backend architecture
+- Transaction workflows
+- Business logic
+- Admin systems
+- Production deployment
+
+🌐 [bypasstransfers.com](https://bypasstransfers.com/)
+
+</td>
+
+<td width="33%" valign="top">
+
+### GlyGold
+**Founder-Built Platform**
+
+Multi-tenant commerce infrastructure designed for businesses that need
+storefronts, orders, payments, messaging, automation, and managed operations.
+
+**My work**
+- Platform architecture
+- Multi-tenancy
+- Provisioning
+- Payments
+- WhatsApp commerce
+- Infrastructure
+- Deployment & operations
+
+🌐 [glygold.com](https://glygold.com/)
+
+</td>
+
+<td width="33%" valign="top">
+
+### SAYUZ
+**Client Project**
+
+City-aware marketplace connecting users and sellers through listings,
+verification, reviews, messaging, discovery, and seller operations.
+
+**My work**
+- Marketplace architecture
+- Vendor systems
+- Trust & verification flows
+- Admin infrastructure
+- Backend services
+- Production deployment
+
+🌐 [sayuz.ru](https://sayuz.ru/)
+
+</td>
+</tr>
+</table>
+
+---
+
+# Architecture I Work With
+
+```text
+Users / Clients
+      │
+      ▼
+Cloudflare / Edge
+      │
+      ▼
+Nginx
+      │
+      ▼
+Laravel / API Layer
+      │
+      ├── PostgreSQL / MySQL
+      ├── Redis
+      ├── Queues / Workers
+      ├── Payments
+      ├── WhatsApp Cloud API
+      ├── External APIs
+      └── Object / File Storage
+             │
+             ▼
+      Dockerized Infrastructure
