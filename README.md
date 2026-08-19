@@ -133,3 +133,87 @@ Laravel / API Layer
              │
              ▼
       Dockerized Infrastructure
+I care about architecture that is understandable, observable, maintainable,
+and appropriate for the actual scale of the product.
+
+Core Stack
+
+Backend
+
+Data & Infrastructure
+
+Frontend
+
+Engineering & Delivery
+
+Systems I Enjoy Building
+software:
+  - SaaS platforms
+  - Marketplaces
+  - Transaction systems
+  - Commerce infrastructure
+  - Internal business tools
+  - REST APIs
+
+
+integrations:
+  - Payment providers
+  - WhatsApp Cloud API
+  - Webhooks
+  - Third-party APIs
+  - Shipping & logistics services
+
+
+infrastructure:
+  - Docker
+  - Nginx
+  - Redis
+  - Queues & workers
+  - CI/CD
+  - VPS deployments
+  - Production monitoring
+How I Approach Engineering
+
+01. Understand the business problem
+
+Technology comes after understanding what the system actually needs to accomplish.
+
+02. Design for the real constraints
+
+I prefer clear architecture over unnecessary complexity.
+
+03. Build production-first
+
+Security, failure handling, permissions, queues, observability, deployment,
+and maintainability are part of the system — not afterthoughts.
+
+04. Ship
+
+Software becomes valuable when people can reliably use it.
+
+Currently
+Building and improving production software systems
+Expanding GlyGold
+Working deeper into distributed systems and software architecture
+Beginning an M.Sc. in Software Engineering
+Open to selected client projects and engineering collaborations
+GitHub
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmmanuelFame&show_icons=true&theme=transparent&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelFame&layout=compact&theme=transparent&hide_border=true" /> </div>
+Let's Build
+
+I'm particularly interested in projects involving:
+
+SaaS · Marketplaces · Payments · Commerce · APIs · Automation · Backend Systems
+
+If you're building something that needs dependable engineering from architecture
+through production, feel free to reach out.
+
+Portfolio: emmanuelfame.netlify.app
+Email: emmanuelayofame@gmail.com
+LinkedIn: Emmanuel Ayanyemi
+
+<div align="center">
+
+Design clearly. Build carefully. Ship reliably.
+
+</div> ```
